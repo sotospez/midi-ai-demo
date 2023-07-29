@@ -84,7 +84,7 @@ mid.print_tracks()
 mid.save('club_dance_beat2.mid')
 
 
-#  This script adds a guitar track to the MIDI file on channel
-#  3. The guitar part is an arpeggio pattern that follows the chord progression.
+#  This script adds a guitar track to the MIDI file on channel 3
+#  The guitar part is an arpeggio pattern that follows the chord progression.
 #  Each note of the chord is played for a beat.
 #  The chord progressions alternate every measure, just like in the piano part.

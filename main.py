@@ -6,7 +6,6 @@ tempo = mido.bpm2tempo(120)
 
 # Create a new MIDI file
 mid = MidiFile(type=1)
-#meta = MetaMessage
 
 
 # Create a track for the drum
